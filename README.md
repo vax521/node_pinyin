@@ -2,5 +2,5 @@
 
 ## 参考资料
 
-[pinyin]("https://github.com/hotoo/pinyin")  
+[pinyin]('https://github.com/hotoo/pinyin')  
 
